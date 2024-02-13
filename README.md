@@ -7,6 +7,7 @@ Computer Science Student | Aspiring Software Engineer
 Hello, I'm Raushan Kumar, a final year B.Tech student majoring in Computer Science and Engineering at AMITY UNIVERSITY, Patna. With a strong foundation in programming languages such as Java, Python, C++, and a keen interest in web and software development, I am enthusiastic about contributing my skills to the dynamic field of technology. My academic journey has equipped me with a robust understanding of computer science concepts, data structures, and algorithms. I have actively engaged in various hands-on projects that showcase my proficiency in web development technologies like HTML, CSS, JavaScript, Bootstrap, Nodejs, and React. One of my notable projects, a social-media single-page web application developed using ReactJS, reflects my commitment to creating user-centric and visually appealing solutions. As I approach graduation, I am eager to bring my skills, passion, and dedication to a dynamic role in software development. I am seeking an opportunity that will allow me to contribute to innovative projects, collaborate with talented professionals, and continue my growth as an aspiring software engineer.
 
 * 🌍  I'm based in India
+* 🖥️  See my portfolio at [Portfolio](http://raushan-cs.github.io/portfolio/)
 * ✉️  You can contact me at [raushan.codes@outlook.com](mailto:raushan.codes@outlook.com)
 * 🧠  I'm learning Android Development
 * 🤝  I'm open to collaborating on interesting Projects.
