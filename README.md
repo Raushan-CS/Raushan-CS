@@ -12,8 +12,8 @@ I enjoy working on complex engineering challenges, optimizing backend performanc
 
 * 🌍 Based in India
 * 💼 Software Engineer
-* 🖥️ Portfolio: http://raushan-cs.github.io/portfolio/
-* ✉️ Contact: raushan.codes@outlook.com
+* 🖥️ Portfolio: http://raushan-cs.github.io/
+* ✉️ Contact: raushankumargalaxy407@gmail.com
 * ☁️ Cloud & Microservices Enthusiast
 * 🤝 Open to collaboration on impactful engineering projects
 
