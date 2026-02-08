@@ -1,25 +1,70 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raushan Kumar
+Hi 👋 I'm Raushan Kumar
 =====================================================================================================================================
 
-Computer Science Student | Aspiring Software Engineer
+🚀 Software Engineer | Full Stack .NET Developer | Cloud & Microservices Enthusiast
 -----------------------------------------------------
 
-Hello, I'm Raushan Kumar, a final year B.Tech student majoring in Computer Science and Engineering at AMITY UNIVERSITY, Patna. With a strong foundation in programming languages such as Java, Python, C++, and a keen interest in web and software development, I am enthusiastic about contributing my skills to the dynamic field of technology. My academic journey has equipped me with a robust understanding of computer science concepts, data structures, and algorithms. I have actively engaged in various hands-on projects that showcase my proficiency in web development technologies like HTML, CSS, JavaScript, Bootstrap, Nodejs, and React. One of my notable projects, a social-media single-page web application developed using ReactJS, reflects my commitment to creating user-centric and visually appealing solutions. As I approach graduation, I am eager to bring my skills, passion, and dedication to a dynamic role in software development. I am seeking an opportunity that will allow me to contribute to innovative projects, collaborate with talented professionals, and continue my growth as an aspiring software engineer.
+I'm a Software Engineer specializing in building scalable enterprise web applications, cloud-native platforms, and high-performance backend systems using the Microsoft .NET ecosystem.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://raushan-cs.github.io/portfolio/)
-* ✉️  You can contact me at [raushan.codes@outlook.com](mailto:raushan.codes@outlook.com)
-* 🧠  I'm learning Android Development
-* 🤝  I'm open to collaborating on interesting Projects.
+Currently working at **Teya Health Pvt Ltd**, I design and develop production-grade healthcare platforms using ASP.NET Core, Blazor, React.js, and Microsoft Azure. I focus on clean architecture, secure authentication, microservices design, and building reliable systems that solve real-world problems.
 
-### Skills
+I enjoy working on complex engineering challenges, optimizing backend performance, and creating scalable applications with strong architecture principles.
 
+* 🌍 Based in India
+* 💼 Software Engineer
+* 🖥️ Portfolio: http://raushan-cs.github.io/portfolio/
+* ✉️ Contact: raushan.codes@outlook.com
+* ☁️ Cloud & Microservices Enthusiast
+* 🤝 Open to collaboration on impactful engineering projects
+
+---
+
+### 🧠 Core Expertise
+
+✔ Full Stack .NET Development (ASP.NET Core, Blazor)  
+✔ Cloud-Native Development with Microsoft Azure  
+✔ Microservices Architecture & CQRS  
+✔ Secure Authentication & RBAC  
+✔ REST API Design & Scalable Backend Systems  
+✔ CI/CD Automation (GitHub Actions, Azure DevOps)  
+✔ Enterprise UI Development (MudBlazor, React)
+
+---
+
+### ⚙️ Tech Stack
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dotnet-colored.svg" width="36" height="36" alt=".NET" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
 </p>
 
+---
 
-### Socials
+### 🏗️ Key Engineering Highlights
 
-<p align="left"> <a href="https://www.github.com/Raushan-CS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raushan-kumar-202215233" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/RaushanCodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@raushan_codes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+- Built enterprise healthcare platforms with scalable microservices architecture
+- Implemented secure RBAC systems using Azure Entra ID & ASP.NET Core policies
+- Designed multi-tenant organizational workflows for EHR & billing systems
+- Developed institutional medical claims processing workflows
+- Automated CI/CD pipelines reducing deployment cycles by ~30%
+- Delivered cloud-native applications deployed on Microsoft Azure
+- Mentored junior developers and conducted code reviews
+
+---
+
+### 🌐 Socials
+
+<p align="left">
+<a href="https://github.com/Raushan-CS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/raushancodes/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.x.com/RaushanCodes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.threads.net/@raushan_codes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
+</p>
